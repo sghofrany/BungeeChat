@@ -1,0 +1,5 @@
+name: BungeeChat
+main: me.iran.bungeechat.BungeeChat
+version: 1.0
+author: IranTwoMiles
+description: Staff msg each other through out the network
